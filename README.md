@@ -1,3 +1,11 @@
+<!-- Kydras Repo Header -->
+<p align="center">
+  <strong>Kydras Systems Inc.</strong><br/>
+  <em>Nothing is off limits.</em>
+</p>
+
+---
+
 # Kydras-Forge
 
 Kydras Systems Inc. — Forge mono-repo + Profit Execution Board (v2025.11)
@@ -10,3 +18,4 @@ Kydras Systems Inc. — Forge mono-repo + Profit Execution Board (v2025.11)
 
 ## Links
 - Homepage: https://site.kydras-systems-inc.com
+
